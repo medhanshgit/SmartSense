@@ -1,0 +1,2 @@
+Requires python 3.6 or higher. 
+Requires numpy, pandas, sklearn, matplotlib, seaborn and datetime libraries.
